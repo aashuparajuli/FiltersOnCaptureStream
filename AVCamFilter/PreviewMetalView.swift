@@ -270,7 +270,7 @@ class PreviewMetalView: MTKView {
     }
     
     /// - Tag: DrawMetalTexture
-    override func draw(_ rect: CGRect) {
+    override func draw(_ rect: CGRect) { //defines the rendering behavior
         var pixelBuffer: CVPixelBuffer?
         var mirroring = false
         var rotation: Rotation = .rotate0Degrees

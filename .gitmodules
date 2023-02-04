@@ -1,0 +1,3 @@
+[submodule "Submodules/XGenOutputUsageDemo_iOS"]
+	path = Submodules/XGenOutputUsageDemo_iOS
+	url = https://github.com/CoCoPIE-Group/XGenOutputUsageDemo_iOS.git
